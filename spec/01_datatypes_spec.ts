@@ -144,10 +144,6 @@ The End`;
             const [, lastName, howOld] = warren;
             expect(lastName.toUpperCase()).toBe('ELLIS');
             expect(howOld).toBe(51);
-
-
-
-
         });
     });
 });
